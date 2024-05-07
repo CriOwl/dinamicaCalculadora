@@ -1,4 +1,4 @@
-float GRAVEDAD = 9.81;
+float GRAVEDAD = 10;
 float m;
 float m1;
 float m2;
@@ -109,7 +109,7 @@ void loop() {
       Serial.println("El cuerpo esta en movimiento");
       delay(5000);
       }
-      
+
       }
       if(tipo == '2'){
       Serial.println("Se ha seleccionado plano inclinado con polea");
