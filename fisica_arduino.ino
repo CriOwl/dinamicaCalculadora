@@ -1,4 +1,4 @@
-float GRAVEDAD = 9.818;
+float GRAVEDAD = 9.81;
 float m;
 float m1;
 float m2;
